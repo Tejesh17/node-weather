@@ -27,7 +27,7 @@ Click [here](https://tejesh17-weather-app.herokuapp.com/) to visit the website!
 
 ## Screenshots 
 1. Home
-![Alt Text](https://github.com/Tejesh17/node-weather/blob/master/screenshots/AboutMeScreenshot.PNG)
+![Alt Text](https://github.com/Tejesh17/node-weather/blob/master/screenshots/HomeScreenshot.PNG)
 
 2. About Me
 ![Alt Text](https://github.com/Tejesh17/node-weather/blob/master/screenshots/AboutMeScreenshot.PNG)
