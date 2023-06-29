@@ -16,8 +16,7 @@ Click [here](https://tejesh17-weather-app.herokuapp.com/) to visit the website!
 1. Handlebars
 2. HTML
 3. JavaScript
-4. CSS- Template from [Stellar by HTML5 UP](https://html5up.net/stellar)
-5. BootStrap 
+4. BootStrap 
 
 ### Version Control 
 1. Git
