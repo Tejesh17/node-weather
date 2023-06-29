@@ -2,7 +2,7 @@
 Weather! is a minimalistic website which shows you various weather parameters of any location around the world!
 
 Click [here](https://tejesh17-weather-app.herokuapp.com/) to visit the website!
-(Note: If the link is down, download the git repo and run 'npm init' and 'npm run start' and visit it locally)
+(Note: If the link is down, download the git repo and run 'npm install' and 'npm run start' and visit it locally)
 
 ## Tech Stack
 
